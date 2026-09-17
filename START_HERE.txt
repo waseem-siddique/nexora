@@ -1,0 +1,24 @@
+NEXORA - ACADEMIC INTERVENTION STUDIO
+PS-014 | B.Tech CSE Major Project
+Developed by Batch - 8 of CSE-A
+
+1. Extract this ZIP fully.
+2. Install Python 3.10 or later.
+3. Open a terminal in this folder.
+4. Run: python run.py
+   (Windows also supports: py -3 run.py)
+   (macOS/Linux: python3 run.py)
+5. Open http://localhost:8000
+6. Click Explore live demo, or create your own account.
+
+The prebuilt frontend is included. No npm installation needed to run.
+The default offline planner needs no API key and is rules-based.
+For generative AI, choose Gemini or local Ollama in AI settings.
+Enter your key in Settings or configure a private .env file.
+
+Read README.md for detailed setup, AI configuration, free-tier caveats,
+privacy, troubleshooting, tests and source-editing instructions.
+Architecture, API reference and viva notes are in docs/.
+
+This is a local academic-project implementation, not production-certified
+institutional software. Use fictional data for your presentation.

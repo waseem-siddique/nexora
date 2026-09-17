@@ -1,0 +1,131 @@
+{
+  "uiWorkflow": "Generate, approve, complete task and log progress via browser: passed",
+  "checks": [
+    {
+      "name": "overview",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "adaptation",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "students",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "student",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "settings",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "gemini-settings",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "profile",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "security",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "resources",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "progress",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "plans",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "agent-trace",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "agent-trace",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "dark-overview",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "mobile-fixed",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "mobile-students",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "mobile-plan",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "mobile-settings",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "mobile-gemini",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "mobile-nav",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "mobile-modal",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "small-mobile-overview",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "small-mobile-landing",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "mobile-landing",
+      "overflow": false,
+      "footer": 1
+    },
+    {
+      "name": "mobile-signup",
+      "overflow": false,
+      "footer": 1
+    }
+  ],
+  "errors": []
+}

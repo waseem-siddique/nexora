@@ -1,0 +1,4 @@
+name,roll,semester,section,course,score,attendance,completion,topic,notes,recorded_on
+Sample Student One,SAMPLE101,5,A,DSA,42,68,55,Recursion,Fictional sample,
+Sample Student One,SAMPLE101,5,A,DBMS,58,76,70,SQL joins,Fictional sample,
+Sample Student Two,SAMPLE102,5,A,OS,49,72,60,Process scheduling,Fictional sample,
